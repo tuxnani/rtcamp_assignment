@@ -88,7 +88,7 @@
  */
 class WkHtmlToPdf
 {
-    protected $bin = '/var/www/rtcode_php_feed/wkhtmltopdf-i386';
+    protected $bin = '/var/www/rtcode_php_feed/wkhtmltopdf-i386'; //Location of wkhtmltopdf on server
     protected $enableEscaping = true;
 
     protected $options = array();

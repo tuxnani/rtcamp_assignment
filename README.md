@@ -31,8 +31,8 @@ rtcode_php_feed
 
 
 ===================
+Usage:
 
-Usage
 On the first page, landing page, A user is prompted for feed url to be fed in, by default, 
 the required url is taken up, http://devilsworkshop.org/feed.
 Then rss_read.php will read url, validate and parse it. And display the posts as a jquery slideshow.

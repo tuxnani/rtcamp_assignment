@@ -18,8 +18,6 @@
 		Feed URL: <input type="text" value="http://devilsworkshop.org/feed/" style="width:200px" name="rss_url"> <br/>
 		<input type="submit">
 	</form>
-<?php echo $_SERVER['SERVER_NAME']; ?>
-
 </div> <!-- end #content -->
 <?php include('includes/sidebar.php'); ?>
 <?php include('includes/footer.php'); ?>
